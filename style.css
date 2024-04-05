@@ -93,3 +93,8 @@ article h3 {
 .mt-5 {
   margin-top: 15px;
 }
+
+.row {
+  display: flex;
+  gap: 4px;
+}
