@@ -98,3 +98,8 @@ article h3 {
   display: flex;
   gap: 4px;
 }
+
+.exilion {
+  object-fit: cover;
+  object-postion: 3px;
+}
